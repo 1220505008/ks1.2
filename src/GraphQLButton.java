@@ -8,7 +8,7 @@ import java.awt.event.ActionListener;
 public class GraphQLButton extends JButton {
 
     //aktif ve pasif durumlar için renk tanımlamaları
-    private static Color aktifRenk = Color.GREEN;//aktif kırmızı renk
+    private static Color aktifRenk = Color.GREEN;//aktif yeşil renk
     private static Color pasifRenk = Color.BLUE;//pasif mavi renk
     private static ImageIcon aktifIcon =new ImageIcon("aktif.png");//aktif simge
     private static ImageIcon pasifIcon =new ImageIcon("pasif.png");//pasif simge
