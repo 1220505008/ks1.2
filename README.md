@@ -20,7 +20,7 @@ Java 11 veya üzeri dilleri çalıştıran ide
 
 Kurulum:
 
-Projeyi GitHub'dan indirin.
+Projeyi GitHub'dan indirin(projede kullanılan .png uzantılı resim dosyalarını da indirin).
 Proje klasörünü ide üzerinden açın
 
 Test Etme veya Kullanım:
